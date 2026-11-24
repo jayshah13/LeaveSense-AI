@@ -50,8 +50,6 @@ LeaveSense-AI/
 ├── Dataset_Dates/
 │   ├── leave dates.txt          # Raw example sentences
 │   └── annotations.json         # Labelled dates (made with NER Annotator)
-├── Leave Type NER Training Step.pdf
-└── Date NER Training Step.pdf
 ```
 
 ## Getting started
